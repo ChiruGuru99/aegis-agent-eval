@@ -1,0 +1,7 @@
+mlflow>=3.18
+openai>=1.40
+pandas
+scikit-learn
+matplotlib
+tabulate
+pytest
